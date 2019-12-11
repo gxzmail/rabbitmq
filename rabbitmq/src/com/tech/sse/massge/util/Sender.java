@@ -1,6 +1,7 @@
 package com.tech.sse.massge.util;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.concurrent.TimeoutException;
 
 import com.rabbitmq.client.Channel;
@@ -18,6 +19,11 @@ public class Sender {
 		channel.exchangeDeclare(EXCHANGE_NAME, "direct", true);
 		channel.queueDeclare(QUEUE_NAME, true, false, false, null);
 		channel.queueBind(QUEUE_NAME, QUEUE_NAME, ROUTING_KEY);
+/*
+ * test code		
+ */
+		String cellConten = "xzguo"; 
+				
 	}
 
 
