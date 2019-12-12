@@ -14,6 +14,9 @@ public class ConnectionUtil {
 		ConnectionFactory factory = new ConnectionFactory();
 		//设置服务器IP
 		factory.setHost("localhost");
+		factory.setUsername("guest");
+		factory.setPassword("guest");
+		factory.setPort(5672); 
 		//获取与服务器的连接
 		Connection connection = factory.newConnection();
 		return connection; 

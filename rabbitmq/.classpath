@@ -4,7 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/amqp-client-5.6.0.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/slf4j-api-1.7.25.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/poi-4.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/poi-examples-4.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/poi-excelant-4.1.1.jar"/>
@@ -14,9 +13,6 @@
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-spring-cloud-config-client-2.12.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-spring-cloud-config-client-2.12.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-spring-cloud-config-client-2.12.1.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-docker-2.12.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-docker-2.12.1-sources.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-docker-2.12.1.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-appserver-2.12.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-appserver-2.12.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-appserver-2.12.1.jar"/>
@@ -65,9 +61,6 @@
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j18-impl-2.12.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j18-impl-2.12.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j18-impl-2.12.1.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j-impl-2.12.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j-impl-2.12.1-sources.jar"/>
-	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-slf4j-impl-2.12.1.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-to-slf4j-2.12.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-to-slf4j-2.12.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-to-slf4j-2.12.1.jar"/>
@@ -81,5 +74,6 @@
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-api-2.12.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-api-2.12.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/book/work/code/rabbitmq/jar/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
